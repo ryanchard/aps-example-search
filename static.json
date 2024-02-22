@@ -1,6 +1,6 @@
 {
   "_static": {
-    "generator": "from-static-labs/static-search"
+    "generator": "ryanchard/aps-static-search"
   },
   "metadata": {
     "title": "Search | Globus",
@@ -14,7 +14,7 @@
     "headline": "XPCS (EXAMPLE)",
     "globus": {
       "search": {
-        "index": "6d222eba-980f-410c-9a58-52a785d660ea"
+        "index": "2ec9cf61-c0c9-4213-8f1c-452c072c4ccc"
       }
     }
   }
