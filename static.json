@@ -9,12 +9,12 @@
   "contents": {
     "logo": {
       "src": "https://www.usgs.gov/themes/custom/usgs_tantalum/usgs_logo.png",
-      "alt": "USGS – science for a changing world"
+      "alt": "APS – science for a changing world"
     },
-    "headline": "ScienceBase Data Releases (EXAMPLE)",
+    "headline": "XPCS (EXAMPLE)",
     "globus": {
       "search": {
-        "index": "6d222eba-980f-410c-9a58-52a785d660ea"
+        "index": "2ec9cf61-c0c9-4213-8f1c-452c072c4ccc"
       }
     }
   }
